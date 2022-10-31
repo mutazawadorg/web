@@ -11935,9 +11935,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sanitize-html@npm:^2.7.0":
-  version: 2.7.0
-  resolution: "sanitize-html@npm:2.7.0"
+"sanitize-html@npm:^2.7.3":
+  version: 2.7.3
+  resolution: "sanitize-html@npm:2.7.3"
   dependencies:
     deepmerge: ^4.2.2
     escape-string-regexp: ^4.0.0
@@ -11945,7 +11945,7 @@ __metadata:
     is-plain-object: ^5.0.0
     parse-srcset: ^1.0.2
     postcss: ^8.3.11
-  checksum: 73a4d66f69578bace3506519ca0734279b7117e15c33c7e4d075cdb483b1586261a18acd35934f6c6109f3b2a4a82f82c242171a94d5dc23fba5b09b01ea5b22
+  checksum: 2399d1fdbbc3a263fb413c1fe1971b3dc2b51abc6cc5cb49490624539d1c57a8fe31e2b21408c118e2a957f4e673e3169b1f9a5807654408f17b130a9d78aed7
   languageName: node
   linkType: hard
 
@@ -13800,7 +13800,7 @@ __metadata:
     postcss-url: ^9.0.0
     promise: ^8.0.3
     qs: ^6.10.3
-    sanitize-html: ^2.7.0
+    sanitize-html: ^2.7.3
     semver: ^7.3.7
     tippy.js: ^6.3.7
     utf8: ^3.0.0
