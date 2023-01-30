@@ -115,7 +115,7 @@
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-modify": "^3.0.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-polyfill-node": "^0.8.0",
+    "rollup-plugin-polyfill-node": "^0.12.0",
     "rollup-plugin-postcss": "^4.0.0",
     "rollup-plugin-progress": "^1.1.2",
     "rollup-plugin-serve": "^1.1.0",
