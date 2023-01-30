@@ -2456,10 +2456,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/luxon@npm:^2.3.1":
-  version: 2.3.1
-  resolution: "@types/luxon@npm:2.3.1"
-  checksum: e75928929aaf4e8796dcbdccd23a2dda029f637db01f5b06c7a72033ae106966df716e179ee41711280d782bd851228810643bce9bffc4ff62ae906e94ee1df2
+"@types/luxon@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@types/luxon@npm:3.2.0"
+  checksum: 051bfbf841c6ce98728df6538342ce4aaddfcf0ec6e8b473e0195dcfc3ba6b1fe4b3ce17f2ba6d25344f41cb70032c1debe96da9e384e5f6e639665c1e6d368c
   languageName: node
   linkType: hard
 
@@ -8899,10 +8899,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"luxon@npm:^2.4.0":
-  version: 2.4.0
-  resolution: "luxon@npm:2.4.0"
-  checksum: 6071028d65cc3d3bdab5e6a3995dd97411c92bb3b3163a02deb7b7014318ad3a6fd750ae77131c42141b717c14aef8880d3130f265281d500ef2365f7265b3f3
+"luxon@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "luxon@npm:3.2.1"
+  checksum: 3fa3def2c5f5d3032b4c46220c4da8aeb467ac979888fc9d2557adcd22195f93516b4ad5909a75862bec8dc6ddc0953b0f38e6d2f4a8ab8450ddc531a83cf20d
   languageName: node
   linkType: hard
 
@@ -13773,7 +13773,7 @@ __metadata:
     "@popperjs/core": ^2.11.5
     "@sentry/browser": ^6.19.7
     "@sentry/integrations": ^6.19.7
-    "@types/luxon": ^2.3.1
+    "@types/luxon": ^3.2.0
     "@types/semver": ^7.3.8
     "@uppy/core": ^3.0.1
     "@uppy/drop-target": ^2.0.0
@@ -13788,7 +13788,7 @@ __metadata:
     focus-trap-vue: ^1.1.1
     fuse.js: ^6.5.3
     lodash-es: ^4.17.21
-    luxon: ^2.4.0
+    luxon: ^3.2.1
     marked: ^4.0.12
     oidc-client-ts: ^2.0.5
     owncloud-design-system: 14.0.0-alpha.16
